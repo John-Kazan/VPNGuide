@@ -8,7 +8,9 @@ type `sslvpn.asu.adu`
 
 ![Screenshot](VPN/VPN_1.png)
 
-Click `Connect` ( if it is not working follow the guide here: https://kb.mit.edu/confluence/display/mitcontrib/Cisco+Anyconnect+Manual+uninstall+Mac+OS )
+Click `Connect`
+
+( if it is not working follow the guide here: https://kb.mit.edu/confluence/display/mitcontrib/Cisco+Anyconnect+Manual+uninstall+Mac+OS )
 
 when asked for username/pass use:
 
