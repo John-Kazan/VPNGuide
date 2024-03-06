@@ -18,6 +18,10 @@ pass: asupass
 second pass: push 
 ```
 
+### if it is not working follow the guide here
+
+https://kb.mit.edu/confluence/display/mitcontrib/Cisco+Anyconnect+Manual+uninstall+Mac+OS
+
 ## Login to sol cluster
 
 on your terminal window:
