@@ -6,7 +6,9 @@ Run `Cisco Secure Client` VPN software
 
 type `sslvpn.asu.adu`
 
-![Screenshot](VPN/VPN_1.png)
+<p align="center" width="100%">
+    <img width="180" src="./images/image_1.png">
+</p>
 
 Click `Connect`
 
