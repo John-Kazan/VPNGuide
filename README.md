@@ -12,7 +12,7 @@ type `sslvpn.asu.adu`
 
 Click `Connect`
 
-( if it is not working follow the guide here: https://kb.mit.edu/confluence/display/mitcontrib/Cisco+Anyconnect+Manual+uninstall+Mac+OS )
+( if it is not working follow the guide here: [link](https://kb.mit.edu/confluence/display/mitcontrib/Cisco+Anyconnect+Manual+uninstall+Mac+OS) )
 
 when asked for username/pass use:
 
